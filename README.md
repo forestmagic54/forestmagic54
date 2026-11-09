@@ -1,4 +1,23 @@
-## Hi there 👋
+# Приветствую, я Ульянова Ангелина!
+
+🚀 Обо мне
+Кратко: Junior frontend-разработчик
+Стек: HTML, CSS, JavaScript, Git, фреймворк React, фреймворк Angular, GitHub, Python, SQL, Oracle, C#, GitHub, Figma, Excel, PowerPoint, MS Word. Знакома с системой контроля версий (VSC). Английский язык: уровень B1.
+Занимаюсь разработкой сайтов, игр и приложений.
+Имею опыт участия в масштабных соревнованиях: Участник олимпиады PROD по промышленной разработке, участник кейс-чемпионата DEADLINE.
+
+📌 Избранные проекты
+- Онлайн-магазин для покупки премиальных автомобилей: https://forestmagic.github.io/cars - сайт, написанный мной в рамках интенсива.
+- https://stupendous-cupcake-13ccd9.netlify.app - сайт, написанный с помощью ИИ, в рамках интенсива.
+
+📜 Сертификаты и дипломы
+👉 https://drive.google.com/drive/folders/1NWuMDnoBlmvWR9QrIB07UX3esWwnGiRB?usp=drive_link (по этой ссылке вы сможете посмотреть мои сертификаты, достижения и подтверждение пройденных курсов)
+
+📫 Связаться со мной
+- Email: au206597@gmail.com
+- Телеграм: @Jolie_vo
+- LinkedIn: www.linkedin.com/in/аngelika-undefined-3a47b1445
+  
 
 <!--
 **forestmagic54/forestmagic54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
