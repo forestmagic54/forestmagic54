@@ -9,7 +9,7 @@
 
 📌 Избранные проекты
 - Онлайн-магазин для покупки премиальных автомобилей: https://forestmagic.github.io/cars - сайт, написанный мной в рамках интенсива.
-- https://stupendous-cupcake-13ccd9.netlify.app - сайт, написанный с помощью ИИ, в рамках интенсива.
+- Сервис для вызова мастера: https://stupendous-cupcake-13ccd9.netlify.app - сайт, написанный с помощью ИИ, в рамках интенсива.
 
 📜 Сертификаты и дипломы
 👉 https://drive.google.com/drive/folders/1NWuMDnoBlmvWR9QrIB07UX3esWwnGiRB?usp=drive_link (по этой ссылке вы сможете посмотреть мои сертификаты, достижения и подтверждение пройденных курсов)
