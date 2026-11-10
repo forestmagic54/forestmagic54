@@ -2,7 +2,7 @@
 
 🚀 Обо мне: Junior frontend-разработчик
 
-Стек: HTML, CSS, JavaScript, Git, фреймворк React, фреймворк Angular, GitHub, Python, SQL, Oracle, C#, GitHub, Figma, Excel, PowerPoint, MS Word. Знакома с системой контроля версий (VSC). Английский язык: уровень B1.
+Стек: HTML, CSS, JavaScript, Git, фреймворк React, фреймворк Angular, GitHub, Python, SQL, Oracle, C#, GitHub, Figma, MS Copilot, Rest API, Excel, PowerPoint, MS Word. Знакома с системой контроля версий (VSC). Английский язык: уровень B1.
 - Занимаюсь разработкой сайтов, игр и приложений.
 
 - Имею опыт участия в масштабных соревнованиях: Участник олимпиады PROD по промышленной разработке, участник кейс-чемпионата DEADLINE.
