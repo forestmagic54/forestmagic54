@@ -6,7 +6,7 @@
 - Языки программирования и разметка: Python, C#, JavaScript, SQL, HTML, CSS.
 - Фронтенд-разработка: Фреймворки React, Angular.
 - Базы данных: Oracle.
-- Инструменты разработки и контроля версий: Git, GitHub, система контроля версий (VSC), Rest API, MS Copilot, Figma.
+- Инструменты разработки и контроля версий: Git, GitHub, система контроля версий (VCS), Rest API, MS Copilot, Figma.
 - Офисные программы: MS Excel, MS PowerPoint, MS Word.
 - Дополнительно: Английский язык — уровень B1.
 
